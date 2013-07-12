@@ -1,3 +1,5 @@
+This project has moved to http://github.com/berkmancenter/category_subscriptions .
+
 # Category Subscription Exports
 
 Export Category Subscription Data.
